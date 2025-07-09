@@ -1,20 +1,18 @@
-📢 Advertisement Click Prediction – Data Science Project
+🎬 Movie Data Analysis – Data Science Project
 
-📌 Project Objective: Predict whether a user will click on an advertisement based on user data and behavior.
+📌 Project Objective: Perform Exploratory Data Analysis (EDA) on a movie dataset to uncover trends and insights in the film industry.
 
 🧠 Skills Gained:
 
-Data Cleaning & Preprocessing
+Data Cleaning and Handling Missing Values
 
 Exploratory Data Analysis (EDA)
 
-Feature Engineering
+Trend Analysis (Genres, Ratings, Revenue, etc.)
 
-Model Building & Evaluation (Logistic Regression, Decision Tree, etc.)
+Data Visualization with Graphs and Charts
 
 
 🛠 Tools & Libraries Used:
-Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-
-🔍 This project was developed as part of my CodSoft Data Science Internship (20 June – 20 July 2025), enhancing my practical knowledge in predictive modeling and classification.
+Pandas, NumPy, Matplotlib, Seaborn
 # ADVERTISEMEMT
